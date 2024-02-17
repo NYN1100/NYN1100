@@ -1,7 +1,7 @@
 [![MasterHead](https://upload.wikimedia.org/wikipedia/commons/0/0a/Digital_rain_animation_medium_letters_clear.gif)]
 <h1 align="center">Hi 👋, I'm Ne'matullayev Yusuf</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/0*RM18YeovA9Vye65o"/>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*RM18YeovA9Vye65o"/>
 
 - 💬 Ask me about **everything**
 
