@@ -1,4 +1,4 @@
-<img  alt="coding" width="800" height="400"  src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif"/>
+<img  alt="coding" width="100%" height="500"  src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif"/>
 
 <h1 align="center">Hi 👋, I'm Ne'matullayev Yusuf</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
