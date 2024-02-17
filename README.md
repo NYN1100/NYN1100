@@ -1,4 +1,4 @@
-[![MasterHead]([https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif)]
+[![MasterHead](https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif)]
 <h1 align="center">Hi 👋, I'm Ne'matullayev Yusuf</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 <img align="right" alt="coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif"/>
